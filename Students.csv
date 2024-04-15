@@ -1,0 +1,51 @@
+StudentID,FirstName,LastName,Email,Major
+S001,Mary,Brown,mary.jane@example.com,Business Administration
+S002,Mary,Doe,mary.jane@example.com,Literature
+S003,Lucy,Brown,mary.jane@example.com,Electrical Engineering
+S004,Steve,Doe,mary.jane@example.com,Business Administration
+S005,Mary,Brown,steve.jobs@example.com,Computer Science
+S006,Lucy,Doe,john.doe@example.com,Electrical Engineering
+S007,Steve,Doe,mary.jane@example.com,Business Administration
+S008,John,Jane,john.doe@example.com,Literature
+S009,Mary,Jobs,steve.jobs@example.com,Business Administration
+S010,Lucy,Jobs,steve.jobs@example.com,Electrical Engineering
+S011,Mary,Jobs,steve.jobs@example.com,Business Administration
+S012,Steve,Jane,steve.jobs@example.com,Computer Science
+S013,Lucy,Jobs,john.doe@example.com,Computer Science
+S014,Mary,Doe,john.doe@example.com,Business Administration
+S015,John,Doe,john.doe@example.com,Literature
+S016,John,Jobs,lucy.brown@example.com,Electrical Engineering
+S017,John,Jobs,john.doe@example.com,Electrical Engineering
+S018,Mary,Doe,steve.jobs@example.com,Literature
+S019,Lucy,Jobs,steve.jobs@example.com,Computer Science
+S020,Mary,Jane,steve.jobs@example.com,Electrical Engineering
+S021,Lucy,Jane,mary.jane@example.com,Business Administration
+S022,John,Jane,lucy.brown@example.com,Computer Science
+S023,John,Doe,mary.jane@example.com,Literature
+S024,Lucy,Doe,lucy.brown@example.com,Business Administration
+S025,Lucy,Jane,john.doe@example.com,Computer Science
+S026,Lucy,Doe,mary.jane@example.com,Literature
+S027,Lucy,Jane,john.doe@example.com,Literature
+S028,Steve,Doe,john.doe@example.com,Electrical Engineering
+S029,Lucy,Jane,mary.jane@example.com,Literature
+S030,Lucy,Brown,steve.jobs@example.com,Electrical Engineering
+S031,John,Jane,steve.jobs@example.com,Electrical Engineering
+S032,John,Brown,lucy.brown@example.com,Electrical Engineering
+S033,John,Doe,mary.jane@example.com,Literature
+S034,Mary,Brown,mary.jane@example.com,Electrical Engineering
+S035,John,Doe,mary.jane@example.com,Literature
+S036,Lucy,Jane,john.doe@example.com,Literature
+S037,Lucy,Jobs,john.doe@example.com,Computer Science
+S038,Lucy,Jane,mary.jane@example.com,Computer Science
+S039,Mary,Doe,steve.jobs@example.com,Business Administration
+S040,Lucy,Jobs,lucy.brown@example.com,Electrical Engineering
+S041,John,Brown,lucy.brown@example.com,Electrical Engineering
+S042,Mary,Jobs,steve.jobs@example.com,Electrical Engineering
+S043,Steve,Jane,lucy.brown@example.com,Business Administration
+S044,Lucy,Brown,lucy.brown@example.com,Literature
+S045,Steve,Brown,lucy.brown@example.com,Electrical Engineering
+S046,Lucy,Brown,mary.jane@example.com,Literature
+S047,Steve,Brown,steve.jobs@example.com,Business Administration
+S048,Steve,Doe,mary.jane@example.com,Business Administration
+S049,Mary,Jobs,john.doe@example.com,Literature
+S050,Mary,Doe,john.doe@example.com,Business Administration

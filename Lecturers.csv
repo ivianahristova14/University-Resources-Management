@@ -1,0 +1,51 @@
+LecturerID,FirstName,LastName,Email,Department,Room
+L001,Clara,Olsen,bob.smith@university.com,Literature,Room 102
+L002,Clara,Smith,clara.olsen@university.com,Literature,Room 103
+L003,Bob,Smith,clara.olsen@university.com,Computer Science,Room 103
+L004,Bob,Smith,clara.olsen@university.com,Literature,Room 102
+L005,Clara,Johnson,alice.johnson@university.com,Computer Science,Room 101
+L006,Bob,Johnson,clara.olsen@university.com,Literature,Room 103
+L007,Bob,Olsen,alice.johnson@university.com,Literature,Room 101
+L008,Alice,Johnson,clara.olsen@university.com,Physics,Room 101
+L009,Bob,Olsen,bob.smith@university.com,Computer Science,Room 103
+L010,Alice,Olsen,alice.johnson@university.com,Literature,Room 103
+L011,Clara,Olsen,alice.johnson@university.com,Computer Science,Room 103
+L012,Clara,Johnson,clara.olsen@university.com,Computer Science,Room 102
+L013,Alice,Johnson,alice.johnson@university.com,Physics,Room 101
+L014,Clara,Johnson,alice.johnson@university.com,Physics,Room 101
+L015,Bob,Smith,alice.johnson@university.com,Physics,Room 101
+L016,Bob,Johnson,alice.johnson@university.com,Computer Science,Room 103
+L017,Bob,Johnson,alice.johnson@university.com,Computer Science,Room 103
+L018,Bob,Smith,clara.olsen@university.com,Computer Science,Room 101
+L019,Clara,Smith,clara.olsen@university.com,Physics,Room 103
+L020,Bob,Smith,clara.olsen@university.com,Literature,Room 101
+L021,Clara,Olsen,clara.olsen@university.com,Computer Science,Room 103
+L022,Bob,Olsen,bob.smith@university.com,Computer Science,Room 103
+L023,Alice,Smith,clara.olsen@university.com,Literature,Room 101
+L024,Bob,Johnson,bob.smith@university.com,Literature,Room 102
+L025,Clara,Smith,alice.johnson@university.com,Computer Science,Room 103
+L026,Bob,Olsen,bob.smith@university.com,Physics,Room 103
+L027,Bob,Smith,clara.olsen@university.com,Computer Science,Room 103
+L028,Clara,Olsen,alice.johnson@university.com,Literature,Room 102
+L029,Clara,Johnson,alice.johnson@university.com,Physics,Room 101
+L030,Alice,Smith,alice.johnson@university.com,Physics,Room 102
+L031,Clara,Smith,clara.olsen@university.com,Physics,Room 102
+L032,Bob,Johnson,bob.smith@university.com,Computer Science,Room 103
+L033,Bob,Smith,clara.olsen@university.com,Physics,Room 102
+L034,Alice,Smith,bob.smith@university.com,Computer Science,Room 103
+L035,Bob,Smith,alice.johnson@university.com,Physics,Room 103
+L036,Alice,Johnson,clara.olsen@university.com,Literature,Room 102
+L037,Alice,Smith,clara.olsen@university.com,Physics,Room 101
+L038,Bob,Olsen,bob.smith@university.com,Computer Science,Room 102
+L039,Bob,Johnson,bob.smith@university.com,Physics,Room 102
+L040,Clara,Olsen,clara.olsen@university.com,Computer Science,Room 102
+L041,Bob,Smith,bob.smith@university.com,Computer Science,Room 102
+L042,Bob,Olsen,bob.smith@university.com,Literature,Room 102
+L043,Alice,Olsen,clara.olsen@university.com,Computer Science,Room 101
+L044,Bob,Olsen,clara.olsen@university.com,Physics,Room 102
+L045,Alice,Johnson,alice.johnson@university.com,Computer Science,Room 102
+L046,Bob,Olsen,clara.olsen@university.com,Computer Science,Room 102
+L047,Clara,Olsen,clara.olsen@university.com,Literature,Room 101
+L048,Bob,Johnson,clara.olsen@university.com,Literature,Room 101
+L049,Bob,Olsen,alice.johnson@university.com,Computer Science,Room 101
+L050,Bob,Smith,alice.johnson@university.com,Computer Science,Room 102

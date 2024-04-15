@@ -1,0 +1,51 @@
+BookID,Title,Author,ISBN,AvailabilityStatus,LocationInLibrary
+B001,Shakespeare’s Plays,William Shakespeare,978-1986431484,Available,Shelf 3
+B002,Advanced Calculus,Ian Goodfellow,978-1986431484,Available,Shelf 1
+B003,Shakespeare’s Plays,James Stewart,978-0672337840,Under Reservation,Shelf 2
+B004,Shakespeare’s Plays,William Shakespeare,978-0321947345,Available,Shelf 2
+B005,Advanced Calculus,James Stewart,978-1986431484,Checked Out,Shelf 4
+B006,Introduction to AI,Marie Curie,978-1986431484,Under Reservation,Shelf 3
+B007,Advanced Calculus,Ian Goodfellow,978-0262035613,Available,Shelf 1
+B008,Modern Physics,Ian Goodfellow,978-0321947345,Checked Out,Shelf 3
+B009,Shakespeare’s Plays,James Stewart,978-0672337840,Available,Shelf 1
+B010,Shakespeare’s Plays,Ian Goodfellow,978-0262035613,Available,Shelf 3
+B011,Introduction to AI,Marie Curie,978-1986431484,Checked Out,Shelf 2
+B012,Advanced Calculus,Marie Curie,978-0672337840,Checked Out,Shelf 2
+B013,Shakespeare’s Plays,Ian Goodfellow,978-1986431484,Available,Shelf 3
+B014,Shakespeare’s Plays,James Stewart,978-0321947345,Available,Shelf 3
+B015,Shakespeare’s Plays,Ian Goodfellow,978-1986431484,Checked Out,Shelf 4
+B016,Shakespeare’s Plays,James Stewart,978-0672337840,Under Reservation,Shelf 2
+B017,Introduction to AI,Marie Curie,978-1986431484,Under Reservation,Shelf 4
+B018,Modern Physics,James Stewart,978-0262035613,Under Reservation,Shelf 4
+B019,Modern Physics,Marie Curie,978-0321947345,Under Reservation,Shelf 3
+B020,Modern Physics,Marie Curie,978-1986431484,Available,Shelf 4
+B021,Shakespeare’s Plays,Ian Goodfellow,978-0262035613,Under Reservation,Shelf 4
+B022,Advanced Calculus,William Shakespeare,978-0672337840,Under Reservation,Shelf 4
+B023,Introduction to AI,William Shakespeare,978-1986431484,Under Reservation,Shelf 2
+B024,Modern Physics,Ian Goodfellow,978-0262035613,Available,Shelf 2
+B025,Introduction to AI,James Stewart,978-0262035613,Under Reservation,Shelf 1
+B026,Introduction to AI,Ian Goodfellow,978-0672337840,Available,Shelf 2
+B027,Advanced Calculus,Ian Goodfellow,978-0672337840,Available,Shelf 2
+B028,Shakespeare’s Plays,James Stewart,978-0262035613,Checked Out,Shelf 2
+B029,Advanced Calculus,Marie Curie,978-0262035613,Available,Shelf 2
+B030,Modern Physics,Ian Goodfellow,978-1986431484,Under Reservation,Shelf 2
+B031,Introduction to AI,James Stewart,978-0672337840,Under Reservation,Shelf 3
+B032,Advanced Calculus,James Stewart,978-1986431484,Checked Out,Shelf 3
+B033,Shakespeare’s Plays,Ian Goodfellow,978-0321947345,Available,Shelf 1
+B034,Advanced Calculus,William Shakespeare,978-0262035613,Checked Out,Shelf 2
+B035,Modern Physics,Marie Curie,978-0262035613,Checked Out,Shelf 4
+B036,Introduction to AI,Marie Curie,978-1986431484,Checked Out,Shelf 4
+B037,Modern Physics,James Stewart,978-0672337840,Available,Shelf 1
+B038,Modern Physics,Marie Curie,978-1986431484,Available,Shelf 4
+B039,Introduction to AI,Marie Curie,978-0262035613,Available,Shelf 2
+B040,Advanced Calculus,James Stewart,978-0321947345,Available,Shelf 1
+B041,Shakespeare’s Plays,Ian Goodfellow,978-0262035613,Checked Out,Shelf 1
+B042,Introduction to AI,James Stewart,978-1986431484,Under Reservation,Shelf 2
+B043,Introduction to AI,William Shakespeare,978-1986431484,Available,Shelf 4
+B044,Advanced Calculus,Marie Curie,978-1986431484,Checked Out,Shelf 2
+B045,Shakespeare’s Plays,James Stewart,978-0262035613,Under Reservation,Shelf 1
+B046,Introduction to AI,William Shakespeare,978-0672337840,Available,Shelf 1
+B047,Introduction to AI,Ian Goodfellow,978-0321947345,Under Reservation,Shelf 1
+B048,Advanced Calculus,Ian Goodfellow,978-0262035613,Checked Out,Shelf 3
+B049,Advanced Calculus,Ian Goodfellow,978-0672337840,Available,Shelf 4
+B050,Advanced Calculus,Marie Curie,978-0321947345,Available,Shelf 2

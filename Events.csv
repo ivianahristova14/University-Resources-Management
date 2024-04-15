@@ -1,0 +1,51 @@
+EventID,EventType,EventName,EventDate,LocationID,Organizer
+E001,Workshop,Renewable Energy Lecture,2024-05-02 15:00,R003,Bob Smith
+E002,Club Meeting,Data Science Workshop,2024-05-04 16:00,R003,Clara Olsen
+E003,Club Meeting,Renewable Energy Lecture,2024-05-04 16:00,R003,Alice Johnson
+E004,Club Meeting,Renewable Energy Lecture,2024-05-01 10:00,R003,Bob Smith
+E005,Guest Lecture,Data Science Workshop,2024-05-03 12:00,R002,Clara Olsen
+E006,Workshop,Chess Club,2024-05-01 10:00,R003,Bob Smith
+E007,Club Meeting,Debate Club,2024-05-04 16:00,R002,Bob Smith
+E008,Guest Lecture,Debate Club,2024-05-01 10:00,R003,Derek Lee
+E009,Guest Lecture,Chess Club,2024-05-03 12:00,R003,Derek Lee
+E010,Workshop,Chess Club,2024-05-03 12:00,R003,Clara Olsen
+E011,Guest Lecture,Chess Club,2024-05-04 16:00,R003,Bob Smith
+E012,Workshop,Chess Club,2024-05-04 16:00,R002,Clara Olsen
+E013,Guest Lecture,Chess Club,2024-05-02 15:00,R003,Clara Olsen
+E014,Guest Lecture,Chess Club,2024-05-02 15:00,R001,Clara Olsen
+E015,Guest Lecture,Renewable Energy Lecture,2024-05-02 15:00,R003,Alice Johnson
+E016,Club Meeting,Renewable Energy Lecture,2024-05-02 15:00,R001,Bob Smith
+E017,Workshop,Renewable Energy Lecture,2024-05-04 16:00,R003,Clara Olsen
+E018,Guest Lecture,Debate Club,2024-05-03 12:00,R003,Derek Lee
+E019,Guest Lecture,Debate Club,2024-05-03 12:00,R003,Derek Lee
+E020,Club Meeting,Renewable Energy Lecture,2024-05-02 15:00,R003,Derek Lee
+E021,Guest Lecture,Data Science Workshop,2024-05-01 10:00,R001,Clara Olsen
+E022,Workshop,Renewable Energy Lecture,2024-05-01 10:00,R003,Bob Smith
+E023,Club Meeting,Renewable Energy Lecture,2024-05-03 12:00,R003,Clara Olsen
+E024,Guest Lecture,Renewable Energy Lecture,2024-05-01 10:00,R002,Clara Olsen
+E025,Club Meeting,Chess Club,2024-05-02 15:00,R003,Derek Lee
+E026,Club Meeting,Data Science Workshop,2024-05-01 10:00,R003,Derek Lee
+E027,Club Meeting,Data Science Workshop,2024-05-01 10:00,R001,Clara Olsen
+E028,Club Meeting,Chess Club,2024-05-03 12:00,R002,Alice Johnson
+E029,Guest Lecture,Chess Club,2024-05-02 15:00,R003,Bob Smith
+E030,Guest Lecture,Data Science Workshop,2024-05-01 10:00,R003,Clara Olsen
+E031,Guest Lecture,Debate Club,2024-05-04 16:00,R002,Alice Johnson
+E032,Club Meeting,Data Science Workshop,2024-05-03 12:00,R003,Bob Smith
+E033,Workshop,Chess Club,2024-05-03 12:00,R003,Clara Olsen
+E034,Club Meeting,Chess Club,2024-05-03 12:00,R003,Clara Olsen
+E035,Guest Lecture,Data Science Workshop,2024-05-01 10:00,R001,Alice Johnson
+E036,Workshop,Data Science Workshop,2024-05-02 15:00,R003,Bob Smith
+E037,Club Meeting,Data Science Workshop,2024-05-01 10:00,R003,Alice Johnson
+E038,Guest Lecture,Chess Club,2024-05-04 16:00,R002,Alice Johnson
+E039,Club Meeting,Data Science Workshop,2024-05-03 12:00,R002,Derek Lee
+E040,Club Meeting,Renewable Energy Lecture,2024-05-02 15:00,R001,Bob Smith
+E041,Club Meeting,Debate Club,2024-05-03 12:00,R002,Derek Lee
+E042,Workshop,Data Science Workshop,2024-05-01 10:00,R001,Derek Lee
+E043,Workshop,Renewable Energy Lecture,2024-05-02 15:00,R003,Derek Lee
+E044,Workshop,Chess Club,2024-05-04 16:00,R001,Bob Smith
+E045,Guest Lecture,Chess Club,2024-05-04 16:00,R001,Bob Smith
+E046,Club Meeting,Chess Club,2024-05-01 10:00,R001,Clara Olsen
+E047,Workshop,Renewable Energy Lecture,2024-05-03 12:00,R002,Bob Smith
+E048,Guest Lecture,Debate Club,2024-05-01 10:00,R002,Bob Smith
+E049,Club Meeting,Chess Club,2024-05-03 12:00,R003,Derek Lee
+E050,Guest Lecture,Data Science Workshop,2024-05-01 10:00,R001,Alice Johnson

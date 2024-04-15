@@ -1,0 +1,51 @@
+ResourceID,ResourceType,Capacity,Location
+R001,Classroom,20,Science Library
+R002,Classroom,40,Health Center
+R003,Classroom,50,Business School
+R004,Lab,50,Career Services Building
+R005,Lab,20,Alumni Center
+R006,Common Area,50,Arts and Sciences Hall
+R007,Classroom,30,Alumni Center
+R008,Classroom,40,Conference Center
+R009,Classroom,30,Arts and Sciences Hall
+R010,Common Area,50,Sports Complex
+R011,Classroom,50,Science Library
+R012,Classroom,30,Career Services Building
+R013,Lab,20,Sports Complex
+R014,Common Area,20,Arts and Sciences Hall
+R015,Classroom,40,Main Library
+R016,Classroom,20,Student Union
+R017,Common Area,30,Alumni Center
+R018,Classroom,50,Faculty Housing
+R019,Common Area,30,Conference Center
+R020,Lab,30,Sports Complex
+R021,Classroom,30,Law Library
+R022,Common Area,40,Conference Center
+R023,Classroom,40,Sports Complex
+R024,Common Area,30,Main Library
+R025,Classroom,30,Faculty Housing
+R026,Classroom,20,Administration Building
+R027,Common Area,20,Graduate Residences
+R028,Lab,20,Undergraduate Dormitories
+R029,Common Area,20,Engineering Complex
+R030,Classroom,50,Law Library
+R031,Classroom,50,Science Library
+R032,Common Area,30,Recreation Center
+R033,Common Area,40,Career Services Building
+R034,Classroom,30,Sports Complex
+R035,Classroom,20,Sports Complex
+R036,Common Area,40,Conference Center
+R037,Classroom,30,Conference Center
+R038,Classroom,30,Main Library
+R039,Classroom,40,Graduate Residences
+R040,Classroom,20,Science Library
+R041,Common Area,20,Science Library
+R042,Classroom,40,Health Center
+R043,Classroom,30,Recreation Center
+R044,Lab,40,Undergraduate Dormitories
+R045,Lab,40,Administration Building
+R046,Classroom,20,Recreation Center
+R047,Lab,30,Science Library
+R048,Common Area,40,Recreation Center
+R049,Common Area,30,Business School
+R050,Lab,20,Arts and Sciences Hall
